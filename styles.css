@@ -1,0 +1,121 @@
+body {
+   background-color:#8FBC8B;
+    color: white;
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'IBM Plex Mono', monospace;
+}
+.h1{
+font-size: 20px;
+font-family: 'IBM Plex Mono', monospace;    
+border: 1px solid black;
+  background-color: white;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+color:black;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 300px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+   font-family: 'IBM Plex Mono', monospace;
+	display:none;
+}
+
+
+.Part-Two-No {
+    font-family: 'IBM Plex Mono', monospace;
+	display:none;
+
+}
+
+.Story-Ending-Yes {
+   font-family: 'IBM Plex Mono', monospace;
+	display:none;
+
+}
+
+.Story-Ending-No {
+   font-family: 'IBM Plex Mono', monospace;
+    display:none;
+
+}
+
+.treasure-img {
+    height: 300px;
+	border:7px solid #353935; 
+}
+.button1 {
+    display: flex;
+    justify-content: center;
+}
+.Part-Two-Yes1{
+display:none;
+
+}
+.Part-Two-Yes2{
+display:none;
+
+}
+.Part-Two-No1{
+display:none;
+
+}
+.Part-Two-No2{
+display:none;
+
+}
+.button2 {
+    display: flex;
+    justify-content: center;
+
+}
+.scraggy{
+height: 300px;
+}
+.pickachu{
+height: 300px;
+}
+.button3{
+display: flex;
+justify-content: center;
+}
+h1{
+font-size: 20px;
+font-family: 'IBM Plex Mono', monospace;    
+border: 1px solid black;
+  background-color: white;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  color:black;
+}
+.pokemon{
+height: 300px;
+display:none;    
+}
